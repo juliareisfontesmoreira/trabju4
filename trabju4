@@ -1,0 +1,30 @@
+1- Python 
+- Python é mais fácil de aprender e usar, com foco em simplicidade e produtividade.
+
+Código mínimo - Exemplo: "Hello, World!"
+python
+print("Hello, World!")
+
+
+ 
+
+JavaScript 
+- JavaScript é essencial para desenvolvimento web e é muito utilizado em aplicações que rodam no navegador.
+
+Código mínimo - Exemplo: "Hello, World!"
+javascript
+console.log("Hello, World!");
+
+
+
+C 
+- Coferece maior controle sobre os recursos de hardware, sendo ideal para programação de sistemas e situações onde o desempenho é crucial.
+
+Código mínimo - Exemplo: "Hello, World!"
+c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
